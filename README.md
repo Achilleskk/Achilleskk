@@ -1,12 +1,43 @@
-<h1 align="center">Hi 👋, I'm Achille !</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+# Hi 👋, I'm Achille ! 
 
-- 🔭 I’m currently working on **a draft app**
+### 🚀 Étudiant en Ingénierie à l'ESILV | Futur Ingénieur Logiciel & Éco-Innovation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/achille-lecacheux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/achille-lecacheux/" height="30" width="40" /></a>
-</p>
+Passionné par la création de solutions numériques performantes, je m'intéresse particulièrement à la manière dont le **Software Engineering** peut répondre aux enjeux de la transition écologique (**Green IT**).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🏗️ Ce que je fais en ce moment
+- 💻 **Draft App :** Développement d'une application desktop en **C# / WPF**. Architecture moderne et interface utilisateur optimisée.
+- 🗄️ **Data Management :** Réalisation de plusieurs projets de conception et gestion de bases de données **SQL** (optimisation de requêtes et modélisation).
+
+---
+
+## 🛠 Skills & Stack Technique
+
+* **Languages:** Python, C# (WPF), SQL
+* **Web Frontend:** HTML5, CSS3, Bootstrap
+* **Hardware/IoT:** Arduino, Systèmes embarqués
+* **Outils:** Git, VS Code, Suite JetBrains, SQL Server / PostgreSQL
+
+---
+
+## 🌱 Mes Intérêts & Focus
+
+- **Software Engineering :** Développement d'applications robustes et scalables.
+- **Éco-Innovation :** Optimisation de code et réduction de l'empreinte carbone numérique (Green IT).
+- **IA & Data :** Utilisation de l'intelligence artificielle pour résoudre des problèmes complexes.
+
+---
+
+## 📈 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achilleskk&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achilleskk&layout=compact&theme=dark)
+
+---
+
+## 📫 Connect with me:
+
+* **LinkedIn:** [in/achille-lecacheux](https://www.linkedin.com/in/achille-lecacheux)
+* **Email:** achille.lecacheux@gmail.com
+* **Localisation:** Paris, France 🇫🇷

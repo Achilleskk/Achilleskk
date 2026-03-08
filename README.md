@@ -29,11 +29,6 @@ Passionné par la création de solutions numériques performantes, je m'intéres
 
 ---
 
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achilleskk&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achilleskk&layout=compact&theme=dark)
-
 ---
 
 ## 📫 Connect with me:

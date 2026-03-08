@@ -28,11 +28,3 @@ Passionné par la création de solutions numériques performantes, je m'intéres
 - **IA & Data :** Utilisation de l'intelligence artificielle pour résoudre des problèmes complexes.
 
 ---
-
----
-
-## 📫 Connect with me:
-
-* **LinkedIn:** [in/achille-lecacheux](https://www.linkedin.com/in/achille-lecacheux)
-* **Email:** achille.lecacheux@gmail.com
-* **Localisation:** Paris, France 🇫🇷
